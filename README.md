@@ -6,6 +6,21 @@ This repository hosts various Jupyter notebooks dedicated to exploring and imple
 
 ## Repository Contents
 
+### Python
+- **abc_vs_protocols_vs_mixins.ipynb**: A notebook exploring the differences and use cases of Abstract Base Classes (ABCs), Protocols, and Mixins in Python.
+- **closures.ipynb**: A notebook explaining closures in Python, how they work, and their practical applications.
+- **collections.ipynb**: A notebook covering the collections module in Python, highlighting its specialized container datatypes.
+- **decorators.ipynb**: A notebook demonstrating the use of decorators in Python, including how to create and apply them.
+- **functools.ipynb**: A notebook detailing the functools module, which provides higher-order functions that operate on or return other functions.
+- **generators.ipynb**: A notebook explaining generators in Python, including how to create them and their benefits for memory-efficient iteration.
+- **itertools.ipynb**: A notebook exploring the itertools module, which provides functions for creating iterators for efficient looping.
+- **memory_management_and_concurrency.ipynb**: A notebook discussing memory management and concurrency mechanisms in Python.
+- **metaclasses.ipynb**: A notebook delving into metaclasses in Python and their role in customizing class creation.
+- **miscellaneous.ipynb**: A notebook containing a variety of Python topics and tips that don't fit into other categories.
+- **regular_expressions.ipynb**: A notebook providing an overview of regular expressions in Python for pattern matching and text processing.
+- **unit_tests.ipynb**: A notebook on unit testing in Python, demonstrating how to write and run tests to ensure code quality and correctness.
+
+
 ### Architecture
 - **cohesion-coupling.ipynb**: A notebook discussing the concepts of cohesion and coupling in software design.
 - **ddd.ipynb**: An introduction to Domain-Driven Design (DDD) and its principles.
@@ -15,21 +30,14 @@ This repository hosts various Jupyter notebooks dedicated to exploring and imple
 
 ### Coming Soon
 
-#### Python Base
-- **python_basics.ipynb**: A comprehensive guide to Python basics, covering fundamental syntax and programming concepts.
-
 #### Libraries
 - **numpy.ipynb**: An introduction to NumPy, a fundamental package for scientific computing in Python.
 - **pandas.ipynb**: A notebook on Pandas, a powerful data manipulation and analysis library.
 - **pydantic.ipynb**: A guide on using Pydantic for data validation and settings management using Python type annotations.
 - **scikit-learn.ipynb**: A comprehensive introduction to scikit-learn, a machine learning library for Python.
 
-#### Architecture
-- Here will be added several design pattern definitions and implementations.
-- 
-#### Concurrency
-- Here will be added several concurrency patterns and implementations.
-- **asyncio.ipynb**: A notebook covering asynchronous programming in Python using the asyncio library.
+#### Design Patterns
+- Here you can see several design pattern explanations and implementations.
 
 ## Getting Started
 

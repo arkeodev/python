@@ -1,0 +1,5 @@
+21-05-2024 12:01:00 - ERROR - This is an error message.
+21-05-2024 12:03:00 - ERROR - Another error occurred.
+21-05-2024 12:05:00 - ERROR - Yet another error message.
+21-05-2024 12:07:00 - ERROR - Error with additional details.
+21-05-2024 12:09:00 - ERROR - Final error message.

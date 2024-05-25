@@ -1,0 +1,10 @@
+2024-05-21 12:00:00 - INFO - This is an informational message.
+2024-05-21 12:01:00 - ERROR - This is an error message.
+2024-05-21 12:02:00 - WARNING - This is a warning message.
+2024-05-21 12:03:00 - ERROR - Another error occurred.
+2024-05-21 12:04:00 - INFO - Another informational message.
+2024-05-21 12:05:00 - ERROR - Yet another error message.
+2024-05-21 12:06:00 - INFO - More info.
+2024-05-21 12:07:00 - ERROR - Error with additional details.
+2024-05-21 12:08:00 - WARNING - Warning with additional details.
+2024-05-21 12:09:00 - ERROR - Final error message.
